@@ -1,6 +1,6 @@
-# Liferay React Native Demo App
+# LIFE Bank React Native Demo App
 
-An example app for Liferay utilizing Liferay's headless apis.
+An example app for LIFE Bank utilizing Liferay's headless apis.
 
 ## Setup the Code
 
